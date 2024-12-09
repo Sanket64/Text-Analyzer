@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/first_app/static/css/main.31d6cfe0.css",
-    "main.js": "/first_app/static/js/main.dab33cdd.js",
-    "index.html": "/first_app/index.html",
-    "main.dab33cdd.js.map": "/first_app/static/js/main.dab33cdd.js.map"
+    "main.css": "/Text-Analyzer/static/css/main.31d6cfe0.css",
+    "main.js": "/Text-Analyzer/static/js/main.dab33cdd.js",
+    "index.html": "/Text-Analyzer/index.html",
+    "main.dab33cdd.js.map": "/Text-Analyzer/static/js/main.dab33cdd.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
